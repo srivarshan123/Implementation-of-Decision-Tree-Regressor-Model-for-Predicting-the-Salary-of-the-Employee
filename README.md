@@ -51,7 +51,10 @@ dt.predict([[5,6]])
 ```
 
 ## Output:
-![Decision Tree Regressor Model for Predicting the Salary of the Employee](sam.png)
+![Decision Tree Regressor Model for Predicting the Salary of the Employee](https://github.com/srivarshan123/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/data%20head.jpeg)
+![Decision Tree Regressor Model for Predicting the Salary of the Employee](https://github.com/srivarshan123/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/info.jpeg)
+![Decision Tree Regressor Model for Predicting the Salary of the Employee](https://github.com/srivarshan123/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/datainfo.jpeg)
+![Decision Tree Regressor Model for Predicting the Salary of the Employee](https://github.com/srivarshan123/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/blob/main/predict.jpeg)
 
 
 ## Result:
